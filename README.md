@@ -1,3 +1,5 @@
+# NB ALL intellectual property associated with the work I do here still belongs to MagicQuartz et al
+
 # MagicQuartz Technology Demonstration
 
 ![MagicQuartz TechDemo Front Rendering](images/Rendering-Front.png)
